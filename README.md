@@ -33,6 +33,7 @@ I'm a developer currently working with .NET applications with [Alianza Estrategi
 * SoapUI
 * API's
 * Postman
+* Spotify
 
 ## Contact me?
 
