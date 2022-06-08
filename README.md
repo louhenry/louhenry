@@ -19,7 +19,8 @@ Here are some ideas to get you started:
     Hi there, I'm Luis Enrique Gomez 👋
 </p>
 
-I'm a developer currently working with .NET, vbScript applications with [Alianza Estrategica Portuaria](https://www.alianza.com.mx). We create solutions to better manage your problems.
+I'm a developer currently working with .NET, vbScript applications with [Alianza Estrategica Portuaria](https://www.alianza.com.mx). 
+I collaborate with [Supra-Sistemas](http://www.supra-sistemas.com). We create solutions to better manage your problems.
 
 ### Everyday use
 
