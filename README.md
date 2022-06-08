@@ -23,7 +23,7 @@ I'm a developer currently working with .NET applications with [Alianza Estrategi
 
 ### Everyday use
 
-* Visual Studio (currently working with the preview 2022 version)
+* Visual Studio (2019, 2022 version)
 * Visual Studio Code
 * SQL Server/ SQL Server Management Studio
 * .NET/C#
@@ -41,3 +41,5 @@ I'm a developer currently working with .NET applications with [Alianza Estrategi
 * [Gmail](mailto:louhenry@gmail.com)
 * [Linkedin](https://www.linkedin.com/in/quiquedrilo/)
 * [Facebook](https://www.facebook.com/quiquedrilo)
+* [Instagram](https://www.instagram.com/quiquedrilo)
+* [Twitter](https://www.twitter.com/quiquedrilo)
