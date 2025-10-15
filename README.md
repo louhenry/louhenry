@@ -23,7 +23,7 @@ I'm a developer currently working with .NET, vbScript applications with [Alianza
 
 ### Everyday use
 
-* Visual Studio (2019, 2022 version)
+* Microsoft Visual Studio
 * Visual Studio Code
 * SQL Server/ SQL Server Management Studio
 * .NET/C#
